@@ -106,7 +106,6 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=SonarQube&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=AWSLambda&logoColor=white"/>
   <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat&logo=Amazon-API-Gateway&logoColor=white"/>
