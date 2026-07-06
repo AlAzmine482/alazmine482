@@ -54,7 +54,6 @@
   <img src="https://img.shields.io/badge/C++-004482?style=flat&logo=Cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
 </p>
 
 <!-- Web & App Technologies -->
