@@ -77,7 +77,6 @@
 <p>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=JUnit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat&logo=PyTest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
 </p>
