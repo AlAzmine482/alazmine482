@@ -1,7 +1,7 @@
 <!-- Hit Counter -->
-<p align="center">
+<a align="center">
   <img src="https://komarev.com/ghpvc/?username=AlAzmine482&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
-</p>
+</a>
 <!-- Personal Links and Contacts -->
 
 <a href="mailto:aazmine594@gmail.com">
