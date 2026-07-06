@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
