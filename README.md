@@ -9,7 +9,7 @@
   <a href="https://alazmine482.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000?logo=github&logoColor=white"/>
   </a>
-  <a href="https://raw.githubusercontent.com/AlAzmine482/AlAzmine482/main/resume.pdf">
+ <a href="https://raw.githubusercontent.com/AlAzmine482/alazmine482/main/Al_Azmine_Resume-SE.pdf">
     <img src="https://img.shields.io/badge/Resume-%23018EF5?logo=readme&logoColor=white"/>
   </a>
   <a href="https://komarev.com/ghpvc/?username=AlAzmine482">
