@@ -126,36 +126,3 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white"/>
 </p>
-
----
-
-<!-- GitHub Stats -->
-<h3>📊 GitHub Stats</h3>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlAzmine482&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlAzmine482&layout=compact&theme=radical&langs_count=6"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlAzmine482&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-<!-- GitHub Trophies -->
-<h3>🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlAzmine482&theme=radical&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
----
-
-<div align="center">
-  
-### 💡 "The only way to do great work is to love what you do." — Steve Jobs
-
-**⭐️ From [Al Azmine](https://github.com/AlAzmine482)**
-
-</div>
