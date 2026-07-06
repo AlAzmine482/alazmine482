@@ -1,8 +1,3 @@
-<!-- Hit Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlAzmine482&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views" />
-</p>
-
 <!-- Personal Links and Contacts -->
 <p align="center">
   <a href="mailto:aazmine594@gmail.com">
@@ -16,6 +11,9 @@
   </a>
   <a href="https://raw.githubusercontent.com/AlAzmine482/AlAzmine482/main/resume.pdf">
     <img src="https://img.shields.io/badge/Resume-%23018EF5?logo=readme&logoColor=white"/>
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=AlAzmine482">
+    <img src="https://komarev.com/ghpvc/?username=AlAzmine482&color=blueviolet&style=flat&label=Profile+Views&abbreviated=true" alt="Profile Views" />
   </a>
 </p>
 
