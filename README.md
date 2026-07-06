@@ -26,6 +26,16 @@
 
 ---
 
+<!-- What I'm Currently Working On -->
+<h3>🔭 What I'm Currently Working On</h3>
+
+- 🧠 Exploring <strong>Machine Learning</strong> and <strong>AI</strong> applications in software engineering
+- 🏗️ Building scalable applications with <strong>.NET</strong> and <strong>Azure</strong>
+- ☁️ Deepening my knowledge in <strong>Cloud Architecture</strong> and <strong>Microservices</strong>
+- 🤝 Looking to collaborate on <strong>open-source projects</strong>
+
+---
+
 <!-- Tech Stack Section -->
 <h3>🚀 Tech Stack 🚀</h3>
 
@@ -35,6 +45,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-004482?style=flat&logo=Cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
@@ -48,9 +59,20 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
+</p>
+
+<!-- Machine Learning & AI -->
+<h4>🧠 Machine Learning & AI</h4>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white"/>
 </p>
 
 <!-- Databases -->
@@ -68,8 +90,10 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=Microsoft-Azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/>
 </p>
 
 <!-- Testing & Tools -->
@@ -77,26 +101,12 @@
 <p>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=JUnit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat&logo=PyTest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
 </p>
 
----
 
-<!-- GitHub Stats -->
-<h3>📊 GitHub Stats</h3>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlAzmine482&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlAzmine482&layout=compact&theme=radical&langs_count=6"/>
-</p>
 
----
 
-<div align="center">
-  
-### 💡 "The only way to do great work is to love what you do." — Steve Jobs
-
-**⭐️ From [Al Azmine](https://github.com/AlAzmine482)**
-
-</div>
